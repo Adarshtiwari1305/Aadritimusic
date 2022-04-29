@@ -1,8 +1,8 @@
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Aadriti © @Shaitaan_bacchaa © Aadriti
+# Owner Adarsh Tiwari
+# Aadriti
 
 
 from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
@@ -319,7 +319,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
@@ -331,7 +331,7 @@ def secondary_markup(videoid, user_id):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Shaitaan_bacchaa"),
 
         ],
 
@@ -345,13 +345,13 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text="❤️ sᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Asad_Support"),
+            InlineKeyboardButton(text="❤️ sᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
@@ -383,7 +383,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
@@ -395,7 +395,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Shaitaan_bacchaa"),
 
         ],
 
@@ -421,7 +421,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
@@ -433,7 +433,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Shaitaan_bacchaa"),
 
         ],
 
@@ -465,11 +465,11 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Shaitaan_bacchaa")],
 
     ]
 
@@ -493,11 +493,11 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/shaitaan_bacchaa")],
 
     ]
 
@@ -509,11 +509,11 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Aadriti_fed"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/shaitaan_bacchaa")],
 
     ]
 

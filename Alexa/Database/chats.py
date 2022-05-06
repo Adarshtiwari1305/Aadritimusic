@@ -1,8 +1,8 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Hitler Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Hitler © @Shaitaan_bacchaa © Hitler
+# Owner Adarsh tiwari
+# Aadriti
 
 
 from typing import Dict, List, Union

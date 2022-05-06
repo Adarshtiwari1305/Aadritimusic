@@ -1,8 +1,8 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Hitler Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Hitler © @Shaitaan_bacchaa © Hitler
+# Owner Adarsh tiwari
+# Aadriti
 
 
 
@@ -131,16 +131,16 @@ async def useradd(_, message: Message):
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ › : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ sᴇʀᴠᴇʀ](https://t.me/AsadSupport)
-┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴇxᴀ ᴄʜᴀᴛ](https://t.me/Alexa_Help)
-┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Shayri_Music_Lovers)
-┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/HarshitSharma361)
+┣★ ᴄʀᴇᴀᴛᴏʀ › : [᚛ ❣🅐Ⓓ🅐Ⓡ🅢Ⓗ✨🅣Ⓘ🅦Ⓐ🅡Ⓘ❣ ᚜](https://t.me/Shaitaan_bacchaa)
+┣★ ᴜᴘᴅᴀᴛᴇs › : [𝙰𝚊𝚍𝚛𝚒𝚝𝚒 sᴇʀᴠᴇʀ](https://t.me/Aadriti_fed)
+┣★ sᴜᴘᴘᴏʀᴛ › : [𝙰𝚊𝚍𝚛𝚒𝚝𝚒 ᴄʜᴀᴛ](https://t.me/Aadriti_fed)
+┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/its_shayariworld)
+┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/skull_power)
 ┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Dr_Asad_Ali) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Shaitaan_bacchaa) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
    reply_markup=InlineKeyboardMarkup(
             [
@@ -156,13 +156,13 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command(["alive", "reload", "alexa"]) & filters.private & ~filters.group & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://telegra.ph/file/1fbb54724bbd7fd3f3b27.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Shayri_Music_Lovers")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Aadriti_fed")
                 ]
             ]
         ),
@@ -172,13 +172,13 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command(["repo", "source"]) & filters.private & ~filters.group & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://telegra.ph/file/1fbb54724bbd7fd3f3b27.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Dr_Asad_Ali")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/shaitaan_bacchaa")
                 ]
             ]
         ),

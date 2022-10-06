@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ Sangeet premi MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ SANGEET PREMI MUSIC BOT ❤️</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 

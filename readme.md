@@ -1,16 +1,16 @@
-<h1 align="center"><b>❤️ AADRITI MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ Sangeet premi MUSIC BOT ❤️</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/shaitaan_bacchaa"><img src="https://telegra.ph/file/92209ae6d4c0bd9868dd1.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/Adarshtiwari1305/Aadritmusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?
+    <a href="https://app.codacy.com/manual/Adarshtiwari1305/Sangeet-premi/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?
         color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Adarshtiwari1305/Aadritimusic"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/Aadritimusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/Aadritimusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/Aadritimusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/Aadritimusic/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/Aadritimusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/Aadritimusic/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/Aadritimusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Adarshtiwari1305/Sangeet-premi"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/Aadritimusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Sangeet-premi/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/Sangeet-premi?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Sangeet-premi/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/Sangeet-premi?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Sangeet-premi/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/Sangeet-premi?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
